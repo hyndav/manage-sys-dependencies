@@ -1,0 +1,40 @@
+
+
+// JSONArray jsonArr = new JSONArray();
+			// jsonArr.addAll(metaDataIds);
+			//
+			// Iterator<Integer> iterator = jsonArr.iterator();
+			// while (iterator.hasNext()) {
+			// wr.writeInt((Integer)iterator.next());
+			// }
+
+			// JsonWriter writer = new JsonWriter(new OutputStreamWriter(new
+			// OutputStream() {
+			//
+			// @Override
+			// public void write(int b) throws IOException {
+			// // TODO Auto-generated method stub
+			//
+			//
+			//
+			//
+			// }
+			// }, "UTF-8"));
+			// writer.setIndent(" ");
+			// writer.beginArray();
+			// for (Integer message : metaDataIds) {
+			// gson.toJson(message, Integer.class, writer);
+			// }
+			// writer.endArray();
+			// writer.close();
+			// String[] myarr = (String[]) metaDataIds.toArray(new String[0]);
+			// String[] myArray = new String[metaDataIds.size()];
+			// for (int i = 0; i < metaDataIds.size(); i++) {
+			// myArray[i] = String.valueOf(metaDataIds.get(i));
+			// }
+			// log.debug("::: "+myArray);
+			// log.debug(":::::::: "+toJavascriptArray(myArray));
+			// Integer[] myArray = metaDataIds.stream().toArray(Integer[]::new);
+			
+			
+			// wr.writeBytes(toJavascriptArray(myArray));
