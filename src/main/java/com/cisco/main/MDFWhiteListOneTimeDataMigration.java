@@ -16,7 +16,6 @@ public class MDFWhiteListOneTimeDataMigration {
 		
 		Date date = new Date();
 		log.info("Start Time :" + date);
-		
 		log.info("Started one-time data dump MDFWhiteListOneTimeDataMigration : ");
 				
 		MDFInterface mdfObjectInterface = new MDFObjectSBPInterfaceImpl();
