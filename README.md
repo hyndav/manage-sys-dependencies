@@ -1,4 +1,3 @@
-# License Data Migration #
 
 ## Build ##
 
@@ -23,5 +22,4 @@ For generating IDE configurations for eclipse
 Run `installDist` task and then run the docker build
 
     ./gradlew installDist
-    docker build -t license-data-migration .
-
+  
